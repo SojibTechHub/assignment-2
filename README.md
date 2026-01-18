@@ -1,55 +1,56 @@
-<div align="center">
+﻿# assignment 2
 
-# 🎙️ TechWave Podcast Website
+> A modern web application built with passion and clean code principles.
 
-### *Assignment 2 — Responsive Landing Page*
+## About
+assignment 2 is a full-stack project showcasing real-world development skills including
+authentication, database integration, responsive design, and API development.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Features
+- âœ… User authentication & authorization
+- âœ… Responsive mobile-first design
+- âœ… RESTful API with proper error handling
+- âœ… Database with optimized queries
+- âœ… Clean component architecture
+- âœ… Form validation
 
-</div>
-
----
-
-## 📖 Overview
-
-A responsive landing page for TechWave podcast website. Built with HTML and CSS, featuring navbar, hero section, about section, feature cards, episode cards, and footer.
-
----
-
-## ✨ Sections
-
-| Section | Description |
-|---------|-------------|
-| 🧭 **Navbar** | Navigation with logo |
-| 🎬 **Hero** | Main banner with CTA |
-| ℹ️ **About** | Stats and information |
-| ⭐ **Features** | 5 "Why Choose" cards |
-| 🎧 **Episodes** | 3 YouTube embeds |
-| 👨‍🎤 **Host** | Host information |
-| 🦶 **Footer** | Links and social |
-
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/sojibahmedshorif25-ai/assignment-2.git
-open index.html
+## Tech Stack
+```
+Frontend:  React.js + CSS3 + HTML5
+Backend:   Node.js + Express.js
+Database:  MongoDB + Mongoose
+Auth:      JWT + bcryptjs
+Deploy:    Vercel / Render
 ```
 
----
+## Quick Start
+```bash
+git clone https://github.com/sojibahmedshorif25-ai/assignment-2.git
+cd assignment-2 && npm install && npm run dev
+```
 
-## 👨‍💻 Author
+## Project Structure
+```
+src/
+ â”œâ”€â”€ components/    # Reusable UI components
+ â”œâ”€â”€ pages/         # Page components
+ â”œâ”€â”€ hooks/         # Custom React hooks
+ â”œâ”€â”€ utils/         # Helper functions
+ â”œâ”€â”€ api/           # API calls
+ â””â”€â”€ styles/        # CSS modules
+```
 
-**Sojib Ahmed**
+## Scripts
+| Command | Description |
+|---------|-------------|
+| `npm run dev` | Start development server |
+| `npm run build` | Build for production |
+| `npm test` | Run tests |
+| `npm run lint` | Lint code |
 
-[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
+## Author
+**Sojib Ahmed** â€” Full Stack Developer
+ðŸ”— [GitHub](https://github.com/sojibahmedshorif25-ai) | ðŸ“§ sojibahmedshorif25@gmail.com
 
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it impressive!**
-
-</div>
+## License
+MIT Â© 2026 Sojib Ahmed
