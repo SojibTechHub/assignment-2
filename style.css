@@ -215,7 +215,7 @@ body{
   opacity:0.2;
 }
 
-/* WAVE BOTTOM */
+
 .footer::after{
   content:"";
   position:absolute;
